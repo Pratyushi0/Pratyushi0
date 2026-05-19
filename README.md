@@ -18,7 +18,8 @@ Cybersecurity enthusiast  and ML Engineer specializing in Autonomous Security Fr
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-<img src="https://github-readme-stats-git-master-anuraghazra.vercelapp/api/top-langs/?username=Pratyushi0&theme=dark&layout=compact" alt="Top Repositories" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyushi0&theme=react-dark" alt="Pratyushi's Activity Graph" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Pratyushi0&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
